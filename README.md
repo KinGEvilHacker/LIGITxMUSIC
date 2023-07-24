@@ -11,7 +11,7 @@ POWERFUL MUSIC BOT
   <img src="https://graph.org/file/907890a944a5756009859.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Error 404](https://t.me/i_am_dead_smile)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝛭𝕚𝜥入乙ꪊ𝜥𝕚 ✗ 𝛭𝖀丂𝙸ℂ](https://t.me/mikazukimusic_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -82,7 +82,7 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://t.me/mikazukimusic_bot"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/i_am_dead_smile"><img src="https://img.shields.io/badge/-Developer%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/theMortalclan"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
