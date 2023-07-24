@@ -11,11 +11,11 @@ POWERFUL MUSIC BOT
   <img src="https://graph.org/file/907890a944a5756009859.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟɪɢɪᴛ ✘ ᴍᴜsɪᴄ](https://t.me/i_am_dead_smile)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Error 404](https://t.me/i_am_dead_smile)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/AnonymousX1025/FallenMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/KinGEvilHacker/FallenMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/AnonymousX1025/FallenMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/FallenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/AnonymousX1025/FallenMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
@@ -82,13 +82,13 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://graph.org/file/b62ed27b5533bab1d6a71.jpg"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/mikazukimusic_bot"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/theMortalclan"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/theMortalclan"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/themortalclan"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/errorbots_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -97,7 +97,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/KinGEvilHacker)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/KinGEvilHacker/FallenMusic) </b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
 - <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
 - <b>[ⓃⓄⓉⒺ This Repo Belongs To Above Mentioned People]<b>
